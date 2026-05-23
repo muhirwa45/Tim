@@ -1,0 +1,8 @@
+{
+  "name": "Tim",
+  "description": "A beautiful Android Pomodoro timer combined with active tasks and a calendar-style productivity heatmap.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
